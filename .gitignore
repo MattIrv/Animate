@@ -1,3 +1,6 @@
 TOKEN
 HOSTNAME
 *.pyc
+server.key
+server.csr
+server.crt
